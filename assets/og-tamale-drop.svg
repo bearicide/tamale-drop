@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#180f0a"/>
+  <circle cx="1060" cy="120" r="220" fill="#e87927" opacity=".75"/>
+  <circle cx="120" cy="540" r="260" fill="#6d1d11"/>
+  <text x="80" y="210" fill="#ffd04f" font-size="42" font-family="Arial" font-weight="900">SMALL BATCH • LOCAL PICKUP</text>
+  <text x="78" y="345" fill="#fff7e8" font-size="112" font-family="Georgia" font-weight="900">TAMALE DROP</text>
+  <text x="84" y="425" fill="#eadac2" font-size="44" font-family="Arial">Not traditional. Still ridiculously good.</text>
+  <text x="930" y="430" font-size="190">🌽</text>
+</svg>
