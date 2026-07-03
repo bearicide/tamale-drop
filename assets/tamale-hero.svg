@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" role="img" aria-label="Tamales on a platter">
+  <defs>
+    <linearGradient id="plate" x1="0" x2="1"><stop stop-color="#fff6db"/><stop offset="1" stop-color="#e7c27a"/></linearGradient>
+    <linearGradient id="husk" x1="0" x2="1"><stop stop-color="#f2d38b"/><stop offset=".5" stop-color="#c49344"/><stop offset="1" stop-color="#7c4a1c"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="24" stdDeviation="18" flood-color="#000" flood-opacity=".35"/></filter>
+  </defs>
+  <ellipse cx="450" cy="520" rx="350" ry="105" fill="#000" opacity=".22"/>
+  <ellipse cx="450" cy="475" rx="360" ry="135" fill="url(#plate)" filter="url(#shadow)"/>
+  <ellipse cx="450" cy="455" rx="285" ry="92" fill="#c55325" opacity=".9"/>
+  <g transform="translate(210 170) rotate(-10)">
+    <rect x="0" y="90" width="160" height="340" rx="75" fill="url(#husk)"/>
+    <path d="M38 116 C70 210 64 300 40 402" stroke="#5b3215" stroke-width="8" opacity=".35" fill="none"/>
+    <path d="M92 112 C116 220 112 312 88 408" stroke="#fff2b7" stroke-width="7" opacity=".35" fill="none"/>
+  </g>
+  <g transform="translate(350 125) rotate(7)">
+    <rect x="0" y="90" width="175" height="370" rx="82" fill="url(#husk)"/>
+    <path d="M42 122 C83 226 72 328 48 430" stroke="#5b3215" stroke-width="8" opacity=".35" fill="none"/>
+    <path d="M110 118 C138 240 132 350 98 436" stroke="#fff2b7" stroke-width="7" opacity=".35" fill="none"/>
+  </g>
+  <g transform="translate(515 185) rotate(15)">
+    <rect x="0" y="90" width="155" height="320" rx="72" fill="url(#husk)"/>
+    <path d="M36 116 C70 210 64 300 40 382" stroke="#5b3215" stroke-width="8" opacity=".35" fill="none"/>
+    <path d="M95 112 C116 220 112 312 88 388" stroke="#fff2b7" stroke-width="7" opacity=".35" fill="none"/>
+  </g>
+  <g fill="none" stroke="#fff7e8" stroke-width="14" stroke-linecap="round" opacity=".8">
+    <path d="M330 115 C280 70 370 48 330 15"/>
+    <path d="M455 92 C410 44 510 38 470 0"/>
+    <path d="M595 135 C550 88 630 68 600 32"/>
+  </g>
+  <circle cx="690" cy="455" r="34" fill="#6fb94f"/>
+  <circle cx="734" cy="474" r="24" fill="#ffd04f"/>
+  <circle cx="645" cy="485" r="18" fill="#ffffff" opacity=".8"/>
+</svg>
